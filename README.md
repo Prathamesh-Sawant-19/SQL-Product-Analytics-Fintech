@@ -33,9 +33,9 @@ The project uses five relational tables:
 | Table | Purpose |
 |---|---|
 | `users` | User profile, signup date, acquisition channel, country, device, KYC status |
-| `events` | Product actions such as app open, onboarding started, KYC submitted, bank added, first transaction |
+| `events` | Product actions such as app open, onboarding started, KYC submitted, KYC approved, bank added, and first transaction |
 | `sessions` | App usage sessions and engagement behaviour |
-| `transactions` | Transaction amounts, status, and fee revenue |
+| `transactions` | Transaction amounts, transaction status, and fee revenue |
 | `support_tickets` | Customer issues such as KYC, payment failure, and account access |
 
 ---
