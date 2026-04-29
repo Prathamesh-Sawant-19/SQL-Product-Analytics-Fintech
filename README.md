@@ -211,7 +211,7 @@ Organic was also strong, showing high activated user volume and the strongest Mo
 ├── sessions.csv
 ├── transactions.csv
 └── support_tickets.csv
-
+```
 
 ---
 
